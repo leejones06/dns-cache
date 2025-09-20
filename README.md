@@ -1,4 +1,4 @@
-<h1> An Introduction to DNS </h1>
+<h1> A Quick Introduction to DNS Records </h1>
 
 <p><i>Note: this project uses the VMs and network created in the previous projects.</i>i></p>
 
