@@ -1,6 +1,6 @@
 <h1> A Quick Introduction to DNS Records </h1>
 
-<p><i>Note: this project uses the VMs and network created in the previous projects.</i>i></p>
+<p><i>Note: this project uses the VMs and network created in the previous projects.</i></p>
 
 <h2> Part 1: Explore the Local DNS Cache </h2>
 
