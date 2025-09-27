@@ -8,7 +8,7 @@
 
 -	Log into the Client VM as the administrator (mydomain.com/miles_dyson). 
 -	Open PowerShell as the admin and ping “mainframe”.
--	
+
 <img width="681" height="474" alt="image" src="https://github.com/user-attachments/assets/61b82415-07da-49f4-9ce4-d9ce26492f6e" />
 </br>
 </br>
